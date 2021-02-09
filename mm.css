@@ -1,0 +1,45 @@
+body {
+    width: 960px
+}
+header nav ul {
+    display : inline;
+    display: flex;
+    justify-content: space-between;
+    /*margin-right: 100px; */
+}
+
+nav ul li {
+    list-style: none;
+    margin-left: 20px;
+}
+
+.uw {
+    width: 100%;
+}
+header {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.rao {
+    background-color: gray;
+    padding: 15px;
+}
+.mer {
+    float: left;
+    margin-right: 10px;
+}
+.cer {
+    float: right;
+    margin-left: 10px;
+}
+.word {
+    padding: 20px;
+    text-align: 1.5;
+}
+.foo {
+    background-color: greenyellow;
+    padding: 30px;
+    font-style: oblique;
+
+}
